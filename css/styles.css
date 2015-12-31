@@ -1,0 +1,17 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background: rgb(224, 228, 204);
+    color: rgb(224, 94, 0);
+    text-align: center;
+    padding: 5%;
+}
+
+.countdown {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.info {
+    margin: 0 auto;
+    max-width: 470px;
+}
